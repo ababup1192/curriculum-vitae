@@ -6,7 +6,8 @@
 |:--|:-------|
 |Name | 渡部未来 (Mirai Watanabe)|
 |Github| [ababup1192](https://github.com/ababup1192) |
-|Qiita| [ababup1192](https://qiita.com/ababup1192) 
+|Qiita| [ababup1192](https://qiita.com/ababup1192) |
+|Scrapbox| [ababup1192](https://scrapbox.io/ababup1192/) |
 |Twitter| [@ababupdownba](https://twitter.com/ababupdownba)|
 
 ## 経歴概要
