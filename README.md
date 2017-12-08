@@ -98,7 +98,15 @@
 - 概念の定義、アーキテクチャの設計、言語ネットワークの構築
 - Zipperアルゴリズムやインクリメンタルパーサを推奨することで計算量を減らすことに努めた
 - プラットフォームや言語の選定にこだわった - 使用想定の幅が広い為 ブラウザで動かしたかった 生産効率を求めてパーサコンビネータやコレクション、GUIアーキテクチャが備わっているElmを選択した
-- Elm, SVG, HTML, CSS
+- Elm, SVG, HTML, CSS, (旧システム: Scala.js)
+
+#### Scalaクイズアプリ
+
+Scalaの学習に特化したクイズアプリケーションの開発
+
+- 設計、開発
+- クイズ自動生成アルゴリズムの作成 - 公式ドキュメントやライブラリ情報をスクライピングし、そこからクイズを自動生成するアルゴリズムを考案、開発した
+- Scala, Scalod, scala-scraper, Play, AWS, Docker
 
 #### Aizu Online Judgeのバックエンドアーキテクチャのリプレース
 
@@ -111,5 +119,65 @@ Aizu Online Judge(AOJ)のバックエンドのレガシーコードをリプレ
 - 教育・レガシーコード改善の提案 - GitHubフロー・Spring Frameworkでの開発の流儀を資料にまとめ提供することで教育を徹底した
 - Java, Spring Framework, Docker, Git, GitBucket
 
+#### 医療電子カルテ データベースドライバ開発
+電子カルテシステムにおけるRDB・NoSQL２つの機能を持ち合わせたデータベースドライバの開発。
+
+- 設計・開発
+- 複数人開発フローの提案 - Git・GitHubを利用した複数人の開発体制を厳守して、競合や開発の手が止まってしまうような問題を解決
+- Scalaでの経験を用いてJava8でも関数型プログラミングを利用して、RDBとNoSQLが扱いやすい統一したインターフェースの開発
+
+### 2012年4月~: 会津大学院博士前期過程
+
+#### 家族見守りサービス
+
+お子様やお年寄りの方の位置情報を把握し、簡易ランチャーにより有害なサイトへのアクセス等を制限し見守るAndroidアプリケーションの開発。
+
+- 設計、開発、サーバ管理、運用・保守
+- 位置情報の精度の改善 - 当時はGPSの位置情報取得の精度が良くなかった為、独自のアルゴリズムを組むことで対処をおこなった
+- Scala, Java, Android, PlayFramwork
+
+#### AOJサブモジュール開発
+
+問題毎のBBSやカテゴリー、タグ機能の開発。
+
+- 設計、開発、サーバ管理、運用・保守
+- 最先端技術の選定 - 手続き型言語やオブジェクト指向言語単体では、思うように保守性・拡張性に優れたコードが書けず、当時では最先端だった関数型の特徴を取り入れたScalaやPlayFrameworkを積極的に採用して開発をした
+- Scala, Play, Git
+
+### 2007年4~: 会津大学コンピュータ理工学部
+
+#### 研修医学習補助サービス
+
+研修医の方が学ぶべき膨大な資料をカテゴライズし、検索可能にしたWebサービスの開発。
+
+- プロジェクトマネージャ、要求仕様書、スケジュール管理、開発
+- プロジェクトマネージャとして - チームメンバーが円滑にタスクをこなせるように管理し、期間内に無事納品
+- 要求仕様を元にPHPとMySQLを利用し、資料や動画のサムネイルを生成し学習資料の一覧が閲覧しやすいページャを生成
 
 
+## 執筆歴
+
+- Architecture for Language Networks Systems
+  - 言語ネットワークのアーキテクチャについての論文([WWWJ2018 Special Issue](http://www.springer.com/computer/database+management+%26+information+retrieval/journal/11280 ジャーナル)に投稿、結果待ち
+
+- [Architecture for Hybrid Language Systems](http://ieeexplore.ieee.org/document/7876328/)
+  -  言語ネットワークの前身、テキスト言語とビジュアル言語 2つの言語の同期のみのシステムだった
+
+- [Modeling Tools for Social Coding](https://link.springer.com/chapter/10.1007/978-3-319-22689-7_31)
+  - 言語ネットワークの前身、汎用的なシステムではなくモデリングツールとして開発をしていた
+
+- [Scala.jsを全力でオススメする](https://qiita.com/ababup1192/items/7896d26d29fdb06d7243)
+  - Scalaの豊富な機能がフロントエンドで使えることをまとめた
+- [関数型言語Elmでテスト駆動開発(第1~4章)](https://qiita.com/ababup1192/items/d6ca1af6efcbac8d550f)
+  - 関数型プログラミングがテスト駆動開発に向いていること、学習中のElmの表現力を知りたくて連載 t-wadaさんにもTwitterで取り上げていただいた
+- [関数型ReactでビジュアルFizzBuzz](https://qiita.com/ababup1192/items/bf6d25845a4556a9e0ca)
+  - Elmに移る前に、TypeScript+Reactの限界を確かめるために、Redux風のものをRx技術と組み合わせて簡易ライブラリを作成し、まとめた
+
+### 登壇歴
+
+- [Elm Tokyo Meetup 飛び入りLT](https://elm-tokyo.connpass.com/event/62355/)
+  - 言語ネットワークについてのLT
+
+## 自己PR
+
+考え中
