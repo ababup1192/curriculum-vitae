@@ -4,7 +4,7 @@
 
 |key | value |
 |:--|:-------|
-|Name | 渡部未来 (Mirai Watanabe)|
+|Name | 富山未来 (Mirai Tomiyama)|
 |Github| [ababup1192](https://github.com/ababup1192) |
 |Qiita| [ababup1192](https://qiita.com/ababup1192) |
 |Scrapbox| [ababup1192](https://scrapbox.io/ababup1192/) |
@@ -26,10 +26,12 @@
 |C| 5年|
 |Java| 5年|Android開発で使用|
 |Ruby| 5年|講義で学生に指導|
-|Scala|6年|Web開発で使用|
+|Scala|8年|Web開発で使用|
 |Haskell|６年|
-|TypeScript| 2年|
-|Elm| 9ヶ月|研究開発で使用|
+|TypeScript| 5年|
+|Elm| 3年|研究開発で使用|
+|Go| 2ヶ月|研究開発で使用|
+
 
 ### OS
 
@@ -44,22 +46,26 @@
 |名前|年数|
 |:--|:--|
 |Vim|6年|
-|IntelliJ|4年|
-|Git・GitHub|5年|
-|Docker|2年|
+|IntelliJ|6年|
+|Git・GitHub|6年|
+|Docker|3年|
 |Nginx|5年|
+|AWS|3年|
+|GCP|2ヶ月|
+|アジャイル・スクラム|3年|
 
 ### フレームワーク・ライブラリ・ミドルウェア
 
 |名前|年数|備考|
 |:---|:--|:--|
-|PlayFramework|5年|AOJ、Web開発等で使用|
+|PlayFramework|6年|AOJ、Web開発等で使用|
 |Spring Framework|2年|AOJバックエンドリプレースに使用|
 |Sinatra|5年|講義で学生に指導|
 |Akka|3年|AOJサブモジュールで使用|
-|MySQL|5年|
+|MySQL|6年|
 |PostgreSQL|1年|
 |MongoDB|2年|
+
 
 
 ## やってみたいこと
@@ -74,7 +80,20 @@
 
 ## 職務経歴
 
-### 2014年4月~: 会津大学院博士後期課程
+### 2022年5月~: 株式会社HotSpring
+
+[旅行サービス こころから](https://www.cocolocala.jp/)開発
+
+
+### 2018年3月~2022年4月: [株式会社ビズリーチ(Visional)](https://www.bizreach.co.jp/)
+
+#### HRMOS
+採用管理システムの開発
+
+#### HRMOS 新卒エディション
+HRMOSの新卒エディションプロジェクト立ち上げ・開発
+
+### 2014年4月~2018年2月: 会津大学院博士後期課程
 
 #### 言語ネットワーク
 
