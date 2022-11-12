@@ -7,6 +7,7 @@
 |Name | 富山未来 (Mirai Tomiyama)|
 |Github| [ababup1192](https://github.com/ababup1192) |
 |Qiita| [ababup1192](https://qiita.com/ababup1192) |
+|Techpit| [ABAB↑↓BA](https://www.techpit.jp/courses/248) |
 |Scrapbox| [ababup1192](https://scrapbox.io/ababup1192/) |
 |Twitter| [@ababupdownba](https://twitter.com/ababupdownba)|
 
@@ -29,8 +30,8 @@
 |Scala|8年|Web開発で使用|
 |Haskell|６年|
 |TypeScript| 5年|
-|Elm| 3年|研究開発で使用|
-|Go| 2ヶ月|研究開発で使用|
+|Elm| 4年|研究開発で使用開始|
+|Go| 半年 |研究開発で使用|
 
 
 ### OS
